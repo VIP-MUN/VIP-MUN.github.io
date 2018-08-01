@@ -1,0 +1,26 @@
+# /_data/authors.yml
+
+Billy Rick:
+  name: "Billy Rick"
+  uri: "http://thewhip.com"
+  email: "billy@rick.com"
+  bio: "What do you want, jewels? I am a very extravagant man."
+  avatar: "/assets/images/bio-photo-2.jpg"
+  twitter: "extravagantman"
+
+Cornelius Fiddlebone:
+  name: "Cornelius Fiddlebone"
+  email: "cornelius@thewhip.com"
+  bio: "I ordered what?"
+  avatar: "/assets/images/bio-photo.jpg"
+  twitter: "rhymeswithsackit"
+
+
+Mohamed  Abdelpakey:
+  name: "Mohamed H. Abdelpakey"
+  email: "mha241@mun.ca"
+  bio: "PhD student"
+  avatar: "/images/Mohamed.jpg"
+  github: "Abdelpakey"
+  twitter: "hamed_mo7amed"
+  linkedin: "mohamed-hamed-abdelpakey-9a144ba3"
