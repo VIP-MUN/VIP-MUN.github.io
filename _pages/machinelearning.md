@@ -87,8 +87,6 @@ in three categories according to the official VOT website: easiest, intermediate
 
 {% include video id="wH4EkZ_k7I4" provider="youtube" %}
 
-{% include video id="yk4ko63W61g" provider="youtube" %}
-
 {% include video id="OYMQ2feJjeE" provider="youtube" %}
 
 {% include video id="XwrW_rMzJxg" provider="youtube" %}
