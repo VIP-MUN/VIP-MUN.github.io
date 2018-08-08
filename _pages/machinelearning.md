@@ -90,4 +90,9 @@ in three categories according to the official VOT website: easiest, intermediate
 {% include video id="OYMQ2feJjeE" provider="youtube" %}
 
 {% include video id="XwrW_rMzJxg" provider="youtube" %}
-
+<div align="center" style="margin:auto;padding-top:10px">
+   <div style="width:15%">
+          <script type="text/javascript" id="clstr_globe" src="//cdn.clustrmaps.com/globe.js?d=7EfsL0ZB6FWpmyqdB88hMCZWpkmt6JJtLoUDpup7WYE"></script>
+		    
+   </div>
+</div>
