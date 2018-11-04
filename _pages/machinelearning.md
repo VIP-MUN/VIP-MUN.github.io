@@ -39,7 +39,7 @@ in three categories according to the official VOT website: easiest, intermediate
 ## Easiest sequences
 {% include video id="EjDvxQZLORo" provider="youtube" %}
 
-# {% include video id="bJjRbUdgvcg" provider="youtube" %}
+{% include video id="bJjRbUdgvcg" provider="youtube" %}
 
 
 
@@ -47,7 +47,7 @@ in three categories according to the official VOT website: easiest, intermediate
 
 
 
-#{% include video id="jwtGvTjuGzs" provider="youtube" %}
+{% include video id="jwtGvTjuGzs" provider="youtube" %}
 
 
 
@@ -57,12 +57,12 @@ in three categories according to the official VOT website: easiest, intermediate
 
 ## Intermediate sequences
 
-#{% include video id="NM3HUjuMyxM" provider="youtube" %}
+{% include video id="NM3HUjuMyxM" provider="youtube" %}
 
 {% include video id="hmCN-mzsM-U" provider="youtube" %}
 
 
-#{% include video id="C6op-SEgfWU" provider="youtube" %}
+{% include video id="C6op-SEgfWU" provider="youtube" %}
 
 
 
@@ -70,14 +70,14 @@ in three categories according to the official VOT website: easiest, intermediate
 
 
 
-#{% include video id="ZByKMF5Vj1Q" provider="youtube" %}
+{% include video id="ZByKMF5Vj1Q" provider="youtube" %}
 
 
 ## Challenging sequences
 
 {% include video id="qsJtqm-3Ux4" provider="youtube" %}
 
-#{% include video id="h62RDiixqis" provider="youtube" %}
+{% include video id="h62RDiixqis" provider="youtube" %}
 
 
 
