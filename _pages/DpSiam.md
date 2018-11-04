@@ -30,7 +30,7 @@ reinforcement learning to produce a continuous action that predicts the optimal 
 
 <figure>
   <img src="/images/Dptable1.jpg">
-  <img src="/images/Dptablel2.jpg">
+  <img src="/images/Dptable2.jpg">
   <img src="/images/Dptable3.jpg">
   <img src="/images/Dptable4.jpg">
 </figure>
