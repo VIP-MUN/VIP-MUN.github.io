@@ -35,61 +35,59 @@ benchmarks compared to other current state-of-the-art methods. DensSiam works be
 in three categories according to the official VOT website: easiest, intermediate and challenging.</p>
 
 
-test11
-[comment]: <> (This is a comment, it will not be included)
+
 ## Easiest sequences
 {% include video id="EjDvxQZLORo" provider="youtube" %}
-{% include video id="Cku4Api98T8" provider="youtube" %}
+
 {% include video id="bJjRbUdgvcg" provider="youtube" %}
 
-{% include video id="RQ6qU2f1PHQ" provider="youtube" %}
+
 
 {% include video id="FwT2Cw6LjpE" provider="youtube" %}
 
-{% include video id="NFCW92O2wks" provider="youtube" %}
+
 
 {% include video id="jwtGvTjuGzs" provider="youtube" %}
 
-{% include video id="rSsm6izP1qY" provider="youtube" %}
+
 
 {% include video id="SsV_BQrmzfE" provider="youtube" %}
 
-{% include video id="MUbEcTu6Y3o" provider="youtube" %}
+
 
 ## Intermediate sequences
 
 {% include video id="NM3HUjuMyxM" provider="youtube" %}
-{% include video id="8kAGPQYjE_g" provider="youtube" %}
+
 {% include video id="hmCN-mzsM-U" provider="youtube" %}
 
-{% include video id="F16lIL4Lq8Q" provider="youtube" %}
 
 {% include video id="C6op-SEgfWU" provider="youtube" %}
 
-{% include video id="rlHviMcASbw" provider="youtube" %}
+
 
 {% include video id="zKuHRcv-RPk" provider="youtube" %}
 
-{% include video id="pJLEr2DdWT0" provider="youtube" %}
+
 
 {% include video id="ZByKMF5Vj1Q" provider="youtube" %}
 
-{% include video id="5v713mh8QQU" provider="youtube" %}
+
 ## Challenging sequences
 
 {% include video id="qsJtqm-3Ux4" provider="youtube" %}
-{% include video id="ghp82zvWANM" provider="youtube" %}
+
 {% include video id="h62RDiixqis" provider="youtube" %}
 
-{% include video id="rjfzb5pNQjw" provider="youtube" %}
+
 
 {% include video id="h97gpsL5QQ0" provider="youtube" %}
 
-{% include video id="wH4EkZ_k7I4" provider="youtube" %}
+
 
 {% include video id="OYMQ2feJjeE" provider="youtube" %}
 
-{% include video id="XwrW_rMzJxg" provider="youtube" %}
+
 <div align="center" style="margin:auto;padding-top:10px">
    <div style="width:15%">
           <script type="text/javascript" id="clstr_globe" src="//cdn.clustrmaps.com/globe.js?d=7EfsL0ZB6FWpmyqdB88hMCZWpkmt6JJtLoUDpup7WYE"></script>
