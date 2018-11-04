@@ -36,7 +36,7 @@ in three categories according to the official VOT website: easiest, intermediate
 
 
 test11
-%This may be the most platform independent comment)%
+[comment]: <> (This is a comment, it will not be included)
 ## Easiest sequences
 {% include video id="EjDvxQZLORo" provider="youtube" %}
 {% include video id="Cku4Api98T8" provider="youtube" %}
