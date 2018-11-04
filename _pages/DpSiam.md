@@ -1,12 +1,12 @@
 ---
-title: "DensSiam Tracker"
-permalink: /machinelearning/
+title: "DP-Siam Tracker"
+permalink: /DpSiam/
 author_profile: true
 #header:
-#  image: "/images/denssiam.jpg"
+#  image: "/images/dparch.jpg"
 author: Mohamed  Abdelpakey
 ---
-# DensSiam: End-to-End Densely-Siamese Network with Self-Attention Model for Object Tracking
+# DP-Siam: Dynamic Policy Siamese Network for Robust Object Tracking
 
 
 
