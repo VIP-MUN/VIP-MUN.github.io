@@ -21,7 +21,7 @@ reinforcement learning to produce a continuous action that predicts the optimal 
 <p class="text-justify">In  this section we show the architecture of DP-Siam. Data dimensions are shown in Table I.</p>
 <figure>
   <img src="/images/Dparch.jpg" alt="this is a placeholder image">
-  <figcaption>Results on VOT2018.</figcaption>
+  <figcaption> DP-Siam Architecture.</figcaption>
 </figure>
 
 ## Experiments
@@ -29,7 +29,7 @@ reinforcement learning to produce a continuous action that predicts the optimal 
 <p class="text-justify">We evaluated DP-Siam on OTB2013, OTB50, OTB100, VOT2015, VOT2016, and VOT2018.</p>
 
 <figure>
-  <img src="/images/Dptable1.jpg" alt="this is a placeholder image">
+  <img src="/images/Dptable1.jpg" >
   <img src="/images/Dptablel2.jpg" alt="this is a placeholder image">
   <img src="/images/Dptable3.jpg" alt="this is a placeholder image">
   <img src="/images/Dptable4.jpg" alt="this is a placeholder image">
