@@ -17,9 +17,8 @@ reinforcement learning to produce a continuous action that predicts the optimal 
     Extensive experiments are performed on six widely used  benchmarks: OTB2013, OTB50, OTB100, VOT2015, VOT2016 and VOT2018. The results show that DP-Siam significantly outperforms the current state-of-the-art trackers.
 </p>
 
-## Visual results
-
-<p class="text-justify">In In this section we show the visual results of DP-Siam on VOT2018.</p>
+## DP-Siam Architecture
+<p class="text-justify">In  this section we show the architecture of DP-Siam. Data dimensions are shown in Table I.</p>
 <figure>
   <img src="/images/Dparch.jpg" alt="this is a placeholder image">
   <figcaption>Results on VOT2018.</figcaption>
@@ -27,7 +26,7 @@ reinforcement learning to produce a continuous action that predicts the optimal 
 
 ## Experiments
 
-<p class="text-justify">We evaluated DP-Siam on OTB2013,OTB50,OTB100, VOT2015,VOT2016, and VOT2018.</p>
+<p class="text-justify">We evaluated DP-Siam on OTB2013, OTB50, OTB100, VOT2015, VOT2016, and VOT2018.</p>
 
 <figure>
   <img src="/images/Dptable1.jpg" alt="this is a placeholder image">
