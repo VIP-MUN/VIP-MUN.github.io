@@ -39,7 +39,7 @@ in three categories according to the official VOT website: easiest, intermediate
 ## Easiest sequences
 {% include video id="EjDvxQZLORo" provider="youtube" %}
 
-{% include video id="bJjRbUdgvcg" provider="youtube" %}
+#{% include video id="bJjRbUdgvcg" provider="youtube" %}
 
 
 
