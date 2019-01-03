@@ -95,3 +95,5 @@ Download the  [pretrained networks](https://drive.google.com/file/d/1-qNdlGaSXyZ
 
 
 {% include video id="XwrW_rMzJxg" provider="youtube" %}
+
+<script type="text/javascript" id="clstr_globe" src="//cdn.clustrmaps.com/globe.js?d=DK6NivqyBCLgdq4_G_cU28fGcqhaBSty4GAmbzVWqf4"></script>
