@@ -15,11 +15,6 @@ author: Mohamed  Abdelpakey
 
 
 
-
-
-{% include video id="OYMQ2feJjeE" provider="youtube" %}
-
-
 <div align="center" style="margin:auto;padding-top:10px">
    <div style="width:15%">
           <script type="text/javascript" id="clstr_globe" src="//cdn.clustrmaps.com/globe.js?d=7EfsL0ZB6FWpmyqdB88hMCZWpkmt6JJtLoUDpup7WYE"></script>
