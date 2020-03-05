@@ -96,7 +96,7 @@ Download the  [pretrained networks](https://drive.google.com/file/d/1-qNdlGaSXyZ
 
 {% include video id="XwrW_rMzJxg" provider="youtube" %}
 
-If you interested in out work, please cit:
+If you interested in our work, please cite:
 
 
 @article{abdelpakey2019dp,
