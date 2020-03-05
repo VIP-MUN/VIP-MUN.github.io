@@ -1,7 +1,7 @@
 ---
 title: "DP-Siam Tracker"
 permalink: /DpSiam/
-author_profile: true
+author_profile: false
 #header:
 #  image: "/images/dparch.jpg"
 author: Mohamed  Abdelpakey
