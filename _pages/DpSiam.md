@@ -97,6 +97,8 @@ Download the  [pretrained networks](https://drive.google.com/file/d/1-qNdlGaSXyZ
 {% include video id="XwrW_rMzJxg" provider="youtube" %}
 
 If you interested in out work, please cit:
+
+
 @article{abdelpakey2019dp,
   title={DP-Siam: Dynamic Policy Siamese Network for Robust Object Tracking},
   author={Abdelpakey, Mohamed H and Shehata, Mohamed S},
