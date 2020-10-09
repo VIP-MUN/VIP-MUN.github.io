@@ -39,8 +39,4 @@ The table below shows the Positive Predictive  Value (PPV) for CORONA-Net compar
 
 If you interested in our work, please cite:
 
-
-
-
-
-<script type="text/javascript" id="clstr_globe" src="//cdn.clustrmaps.com/globe.js?d=DK6NivqyBCLgdq4_G_cU28fGcqhaBSty4GAmbzVWqf4"></script>
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=IXqmovXu4rBHs-q-IL1M_w1KzcIi4kGJA3x0C9YSBWA"></script>
