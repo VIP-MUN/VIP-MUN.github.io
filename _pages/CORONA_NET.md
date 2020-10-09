@@ -4,7 +4,7 @@ permalink: /CORONA_NET/
 author_profile: true
 #header:
 #  image: "/images/arch.jpg"
-author: 
+author: Mohamed Abdelpakey
 ---
 # COnvolutional Re-initialization Optimization Network for Detecting  COVID-19 from CT and X-ray images
 
