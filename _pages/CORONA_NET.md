@@ -19,20 +19,20 @@ The COVID-19 pandemic has been deemed a global health emergency. The early detec
 ## CORONA-Net Architecture
 In  this section we show the architecture of DP-Siam. Data dimensions are shown in Table I.
 
-  <img src="./images/coronanet.jpg">
+  <img src="/images/coronanet.jpg">
 
 
 ## Results
 
 The figure below shows the results of CORONA-Net on COVIDx dataset.
 
-![Confusion matrix](./images/confusionlabel.png)
+![Confusion matrix](/images/confusionlabel.png)
 
 The table below shows the Positive Predictive  Value (PPV) for CORONA-Net compared to other methods.
 
 
 
-![](./images/ppv.jpg)
+![](/images/ppv.jpg)
 
 
 
